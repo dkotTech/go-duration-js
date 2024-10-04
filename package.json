@@ -1,6 +1,6 @@
 {
   "name": "go-duration-js",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "A TypeScript module to parse Go durations.",
   "repository": {
     "type": "git",
