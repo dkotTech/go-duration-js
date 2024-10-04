@@ -1,0 +1,13 @@
+lib/
+coverage/
+
+node_modules/
+
+dist/
+tmp/
+temp/
+
+.vscode/
+.idea/
+
+npm-debug.log*
